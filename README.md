@@ -24,7 +24,7 @@ This application creates React components, works with helper/util functions, and
 npm i or npm install
 
 # Usage
-npm start locally or go to 
+npm start locally or go to https://react-google-books-app6105.herokuapp.com/
 
 # License
 None
